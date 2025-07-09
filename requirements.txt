@@ -1,0 +1,15 @@
+streamlit
+cohere
+openai
+pdfplumber
+streamlit
+cohere
+openai
+pdfplumber
+python-docx
+scikit-learn
+textstat
+PyPDF2
+python-dotenv
+wordcloud
+
