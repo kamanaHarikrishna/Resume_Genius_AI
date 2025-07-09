@@ -12,4 +12,4 @@ textstat
 PyPDF2
 python-dotenv
 wordcloud
-
+plotly
