@@ -13,3 +13,5 @@ PyPDF2
 python-dotenv
 wordcloud
 plotly
+docx2txt
+
